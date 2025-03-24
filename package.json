@@ -2,6 +2,10 @@
   "name": "think-tool-mcp",
   "version": "0.1.2",
   "description": "An MCP server implementing the think tool for Claude and other LLMs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhinav-mangla/think-tool-mcp.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
