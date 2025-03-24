@@ -1,0 +1,36 @@
+{
+  "name": "think-tool-mcp",
+  "version": "0.1.0",
+  "description": "An MCP server implementing the think tool for Claude and other LLMs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "mcp-think-tool": "dist/index.js"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "publish": "npm run build && npm publish"
+  },
+  "keywords": [
+    "mcp",
+    "llm",
+    "claude",
+    "think",
+    "tool"
+  ],
+  "author": "abhinav-mangla",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "@types/node": "^20.11.24"
+  }
+}
