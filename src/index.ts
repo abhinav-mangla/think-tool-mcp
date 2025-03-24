@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { ThinkToolServer } from './server';
 
 async function main() {
