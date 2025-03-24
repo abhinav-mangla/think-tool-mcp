@@ -1,6 +1,6 @@
 {
   "name": "think-tool-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An MCP server implementing the think tool for Claude and other LLMs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
