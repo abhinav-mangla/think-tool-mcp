@@ -6,6 +6,10 @@
 
 A Model Context Protocol (MCP) server implementing the "think" tool for improving Claude's complex reasoning capabilities.
 
+<a href="https://glama.ai/mcp/servers/@abhinav-mangla/think-tool-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@abhinav-mangla/think-tool-mcp/badge" alt="Think Tool Server MCP server" />
+</a>
+
 ## Overview
 
 This MCP server implements the "think" tool as described in Anthropic's [blog post](https://www.anthropic.com/engineering/claude-think-tool), which provides Claude with a dedicated space for structured thinking during complex problem-solving tasks. The think tool has been shown to significantly improve performance in complex tasks requiring policy adherence and reasoning in long chains of tool calls.
