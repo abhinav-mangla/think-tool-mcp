@@ -13,8 +13,7 @@ This MCP server implements the "think" tool as described in Anthropic's [blog po
 ## Features
 
 - **Structured Thinking Space**: Provides Claude with a dedicated place to break down complex problems
-- **Thought History**: Maintains a log of all thoughts with timestamps for reference
-- **Clean Slate Option**: Allows clearing thought history when starting fresh
+
 
 ## Installation
 
