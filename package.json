@@ -1,10 +1,10 @@
 {
   "name": "think-tool-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An MCP server implementing the think tool for Claude and other LLMs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/abhinav-mangla/think-tool-mcp.git"
+    "url": "git+https://github.com/abhinav-mangla/think-tool-mcp.git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -17,8 +17,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
-    "dev": "ts-node src/index.ts",
-    "publish": "npm run build && npm publish"
+    "dev": "ts-node src/index.ts"
   },
   "keywords": [
     "mcp",
