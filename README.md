@@ -5,6 +5,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue)](https://modelcontextprotocol.io)
 
+<a href="https://glama.ai/mcp/servers/@abhinav-mangla/think-tool-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@abhinav-mangla/think-tool-mcp/badge" alt="Think Tool Server MCP server" />
+</a>
+
 A Model Context Protocol (MCP) server that implements the "think" tool for enhancing complex reasoning capabilities in Large Language Models (LLMs). This tool provides LLMs with a dedicated space for structured thinking during problem-solving tasks, significantly improving performance in complex scenarios requiring policy adherence and multi-step reasoning.
 
 ## 🧠 Overview
