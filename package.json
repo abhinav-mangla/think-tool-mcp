@@ -29,11 +29,11 @@
   "author": "abhinav-mangla",
   "license": "MIT",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.6.1"
+    "@modelcontextprotocol/sdk": "^1.17.2"
   },
   "devDependencies": {
+    "@types/node": "^20.11.24",
     "ts-node": "^10.9.2",
-    "typescript": "^5.3.3",
-    "@types/node": "^20.11.24"
+    "typescript": "^5.3.3"
   }
 }
